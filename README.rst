@@ -1,1 +1,3 @@
-Always always use a sandbox!
+Always Use a Sandbox
+--------------------
+Struggling? Try http://cdimage.kali.org/kali-2017.1/kali-linux-light-2017.1-amd64.iso

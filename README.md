@@ -1,5 +1,4 @@
-Struggling?
-===========
+# c3RyaW5ncwo-
 
 If you’re struggling install docker and run:
 - **sudo docker run -ti derpingaherpington/lolerz**

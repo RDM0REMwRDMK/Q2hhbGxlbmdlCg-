@@ -1,4 +1,3 @@
-Always Use a Sandbox
-====================
+# Struggling?
 
-Struggling? Try http://cdimage.kali.org/kali-2017.1/kali-linux-light-2017.1-amd64.iso
+If you’re struggling install docker and run “sudo docker run -ti derpingaherpington/lolerz”. It drop you into a shell with the binary to analyse.
